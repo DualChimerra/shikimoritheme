@@ -17,9 +17,9 @@
    .x1000 > .l-page div .profile-head { /* Неизвестно */
       height: 385px;
    }
-   .p-profiles .profile-head .c-brief { /* Неизвестно */
+   .p-profiles .profile-head .c-brief { /* Положение блока с аватаром */
       margin-bottom: 0;
-      position: absolute;
+      position: relative;
       left: 0;
       bottom: 0;
       width: 150px;
