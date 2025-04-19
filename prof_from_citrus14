@@ -1,6 +1,6 @@
 @media (min-width: 1200px) {
    .p-profiles-show .b-club .logo {
-      width: 70%;
+      width: 100%;
    }
    .p-profiles .profile-head .c-brief .avatar img {
       border-radius: 20%;
