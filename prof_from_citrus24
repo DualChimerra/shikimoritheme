@@ -1028,13 +1028,13 @@
       padding-top: 3px;
    }
    .p-profiles .profile-head .c-history > div > .entry {
-      border-radius: 10px;
+      border-radius: 4px;
    }
    .p-profiles .profile-head .c-history > div > .entry,
    .p-profiles .profile-head .c-history.x3 > div > .entry {
       display: inline-block;
-      width: 366px;
-      min-width: 366px;
+      width: 320px;
+      min-width: 320px;
       margin: 0 1% 0 0px;
    }
    .p-profiles .profile-head .c-history > div > .entry:last-child {
