@@ -960,7 +960,7 @@
    }
    body#profiles_show .profile-head {
       top: -554px;
-      height: 554px;
+      height: 300px;
    }
    body#profiles_show .profile-head:before {
       content: "";
