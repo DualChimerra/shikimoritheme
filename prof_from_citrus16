@@ -12,10 +12,10 @@
       overflow: visible;
       margin: -15px 0px 10px;
       position: relative;
-      height: 685px;
-   }
-   .x1000 > .l-page div .profile-head {
       height: 385px;
+   }
+   .x1000 > .l-page div .profile-head { /* Неизвестно */
+      height: 685px;
    }
    .p-profiles .profile-head .c-brief {
       margin-bottom: 0;
