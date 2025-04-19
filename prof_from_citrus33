@@ -959,7 +959,7 @@
       display: none;
    }
    body#profiles_show .profile-head {
-      top: 0px;
+      top: -400px;
       height: 400px;
    }
    body#profiles_show .profile-head:before {
