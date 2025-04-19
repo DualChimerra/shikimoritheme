@@ -31,7 +31,7 @@
       max-width: 100%;
       width: 100%;
       float: none !important;
-      margin-top: 10px;
+      margin-top: -236px;
    }
    .p-profiles .profile-head .c-info .c-lists-info .b-stats_bar {
       margin-bottom: 15px;
