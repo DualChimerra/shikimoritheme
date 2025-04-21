@@ -1020,10 +1020,10 @@
    }
    .c-history > div {
       width: 392px;
-      justify-content: center;
       display: flex;
       flex-wrap: wrap;
       padding-top: 12px;
+      gap: 8px;
    }
    .p-profiles .profile-head .c-history > div > .entry .title {
       padding-top: 3px;
@@ -1034,13 +1034,15 @@
    .p-profiles .profile-head .c-history > div > .entry,
    .p-profiles .profile-head .c-history.x3 > div > .entry {
       display: inline-block;
-      width: 366px;
-      min-width: 366px;
+      width: 386px;
+      min-width: 386px;
       margin: 0 1% 0 0px;
    }
    .p-profiles .profile-head .c-history > div > .entry:last-child {
-      margin-right: calc(30px + 1%);
-      box-sizing: content-box;
+      border-top: none;
+      margin-top: -5px;
+      padding-top: 0;
+
    }
    #profiles_show .subheadline.m13 > a {
       padding: 0px;
