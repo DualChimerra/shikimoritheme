@@ -24,14 +24,14 @@
       bottom: 0;
       width: 300px;
       height: 258px;
-      padding: 0 15px;
+      padding-left: 24px;
    }
    .p-profiles .profile-head .c-brief .avatar {
       text-align: left;
       max-width: 100%;
       width: 100%;
       float: none !important;
-      margin-top: -236px;
+      margin-top: -166px;
    }
    .p-profiles .profile-head .c-info .c-lists-info .b-stats_bar {
       margin-bottom: 15px;
@@ -160,8 +160,8 @@
    /* Абсолютно позиционированный элемент нужно сначала растянуть на всю ширину */
    .p-profiles .profile-head .c-info .c-additionals {
       position: absolute;
-      bottom: 0;
-      left: 16px;
+      bottom: -73px;
+      left: 26px;
       width: 100%;
       margin: 0 auto;
       margin-bottom: 214px !important ;
@@ -959,15 +959,15 @@
       display: none;
    }
    body#profiles_show .profile-head {
-      top: -554px;
-      height: 554px;
+      top: -620px;
+      height: 460px;
    }
    body#profiles_show .profile-head:before {
       content: "";
-      width: calc(100% + 100px);
+      width: 100%;
       height: 100%;
       position: absolute;
-      right: -50px;
+      right: 0px;
       top: 0px;
       border-radius: 18px;
       box-shadow: 0 2px 6px 2px rgba(0, 0, 0, 0.2);
