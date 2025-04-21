@@ -959,8 +959,8 @@
       display: none;
    }
    body#profiles_show .profile-head {
-      top: -580px;
-      height: 580px;
+      top: -554px;
+      height: 554px;
    }
    body#profiles_show .profile-head:before {
       content: "";
