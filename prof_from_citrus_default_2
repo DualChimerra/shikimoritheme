@@ -983,7 +983,7 @@
    .p-profiles .profile-head .c-history.x3 {
       display: flex;
       position: absolute;
-      align-items: center;
+      align-items: flex-start;
       flex-flow: row-reverse;
       justify-content: center;
       top: 26px;
@@ -1013,16 +1013,17 @@
       right: 4px;
    }
    .profile-head .c-history.x2 .subheadline.m13 {
-      right: 200px;
+      right: 8px;
    }
    .profile-head .c-history.x3 .subheadline.m13 {
       right: 4px;
    }
    .c-history > div {
-      width: 100%;
+      width: 392px;
       justify-content: center;
       display: flex;
       flex-wrap: wrap;
+      padding-top: 12px;
    }
    .p-profiles .profile-head .c-history > div > .entry .title {
       padding-top: 3px;
