@@ -1189,7 +1189,7 @@
       margin-bottom: 0px !important;
    }
    .p-profiles-show .profile-content .graph {
-      height: 124px;
+      height: 300px;
    }
 
    .p-profiles-show .lifetime .title .value {
