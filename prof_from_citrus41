@@ -103,7 +103,8 @@
    }
    .p-profiles .profile-head .c-brief .avatar .profile-actions {
       position: absolute;
-      bottom: 2px;
+      bottom: 160px;
+      left: 6px;
       z-index: 2;
    }
    .p-profiles .profile-head {
