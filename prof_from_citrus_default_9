@@ -1111,7 +1111,7 @@
    .b-clubs.one-line {
       display: inline-flex;
       vertical-align: top;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
       align-items: center;
       justify-content: center;
       align-content: space-around;
@@ -1122,13 +1122,12 @@
    }
    .profile-content .b-club .logo {
       margin: 0px;
-      width: 92%;
+      width: 95%;
    }
    .b-clubs.one-line .b-club,
    .b-clubs.one-line .b-club:last-child {
       float: none;
       width: 32%;
-      margin: auto 10px !important;
    }
    .profile-content .c-right .cc-2a .c-column.m0:nth-child(2n) {
       position: absolute;
