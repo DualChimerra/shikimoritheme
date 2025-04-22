@@ -2618,9 +2618,8 @@ img {
 }
 
 .p-profiles .profile-head .c-history .entry .misc {
-    animation: runningtext 18s ease-in-out infinite;
-    animation-delay: 2s;
-    text-align: center;
+    animation: none;
+    text-align: left;
 }
 
 .profile-actions .mail:hover::before,
