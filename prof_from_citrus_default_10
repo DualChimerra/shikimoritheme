@@ -796,6 +796,7 @@
       left: auto !important;
       width: 20px;
       top: 54px;
+      display: none;
    }
    .b-stats_bar.manga .compatibility .text.zero:before,
    .b-stats_bar.manga .compatibility .text.weak:before,
