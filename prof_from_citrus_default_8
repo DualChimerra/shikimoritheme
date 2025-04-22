@@ -1132,12 +1132,17 @@
    }
    .profile-content .c-right .cc-2a .c-column.m0:nth-child(2n) {
       position: absolute;
-      width: 400px;
+      width: 390px;
+      height: 170px;
       left: 758px;
-      bottom: 180px;
+      bottom: 263px;
       margin: 0px;
       padding: 0px;
       text-align: left;
+      background: rgba(var(--menu-back), 0.3);
+      padding: 4px 6px;
+      border-radius: 14px;
+      box-sizing: content-box;
    }
    .profile-content .c-right .cc-2a .c-column.m0 .subheadline a {
       padding-right: 0px;
@@ -1197,6 +1202,7 @@
    }
    .p-profiles .cc-2a .c-column.m0 .subheadline {
       margin-bottom: 0px !important;
+      display: none;
    }
    .p-profiles-show .profile-content .graph {
       height: 124px;
