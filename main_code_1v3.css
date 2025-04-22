@@ -2611,15 +2611,15 @@ img {
 
 .p-profiles .profile-head .c-history .entry .misc.date.unprocessed {
     color: rgba(var(--dark-color), 1) !important;
-    text-align: center;
+    text-align: left;
     text-indent: 0 !important;
     animation: none !important;
     width: auto;
 }
 
 .p-profiles .profile-head .c-history .entry .misc {
-    animation: none;
     text-align: left;
+    animation: none !important;
 }
 
 .profile-actions .mail:hover::before,
