@@ -1132,11 +1132,12 @@
    }
    .profile-content .c-right .cc-2a .c-column.m0:nth-child(2n) {
       position: absolute;
-      width: 18%;
-      left: 0px;
+      width: 400px;
+      left: 758px;
+      bottom: 180px
       margin: 0px;
       padding: 0px;
-      text-align: center;
+      text-align: left;
    }
    .profile-content .c-right .cc-2a .c-column.m0 .subheadline a {
       padding-right: 0px;
