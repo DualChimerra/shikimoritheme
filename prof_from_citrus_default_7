@@ -1134,13 +1134,14 @@
       position: absolute;
       width: 400px;
       left: 758px;
-      bottom: 180px
+      bottom: 180px;
       margin: 0px;
       padding: 0px;
       text-align: left;
    }
    .profile-content .c-right .cc-2a .c-column.m0 .subheadline a {
       padding-right: 0px;
+      text-align: left;
    }
    .p-profiles-show.x1200 .profile-content .c-left,
    .p-profiles-show.x1000 .profile-content .c-left {
